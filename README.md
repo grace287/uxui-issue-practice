@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hired%20Pro&fontSize=90)
+
 # 프로젝트 소개
 채용관리 서비스입니다. <br><br>
 
@@ -13,19 +15,19 @@ Q. 기업들이 채용과정에서 어떤 어려움을 겪고 있을까요?
 <b>UI</b> 권은혜 <br>
 <b>FE</b> 공혜지 황이삭 우지수 <br>
 <b>BE</b> 이성제 전수정 정혜미
+
 # 기술 스택
-intelliij
-figma
-react
-DBeaver
-github
-git
-swagger
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white"/>
 
 # 협업 방식
-slack
-discord
-notion
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
+
 
 # 구현 내용
 
@@ -33,3 +35,6 @@ notion
 
 기업관리자
 # Demo
+
+
+<div style="display:none;"> https://capsule-render.vercel.app/api? </div>
