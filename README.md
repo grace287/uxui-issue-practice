@@ -34,4 +34,4 @@
 # Demo
 
 
-<div style="position:absolute; display:none;"><a style="display:none;"> https://capsule-render.vercel.app/api? </a></div>
+<div style="position:absolute; display:none;"><a style="display:none; color:#ffffff"> https://capsule-render.vercel.app/api? </a></div>
